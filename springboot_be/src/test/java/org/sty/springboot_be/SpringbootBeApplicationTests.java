@@ -1,13 +1,13 @@
-package net.javaguides.springboot;
+package org.sty.springboot_be;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootBackendApplicationTests {
+class SpringbootBeApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
